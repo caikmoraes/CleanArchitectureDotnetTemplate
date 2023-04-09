@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>{TargetFramework}</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.3.0" />
+    <PackageReference Include="Mapster.DependencyInjection" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Base.Clean.Template.Application\Base.Clean.Template.Application.csproj" />
+    <ProjectReference Include="..\Base.Clean.Template.Infrastructure\Base.Clean.Template.Infrastructure.csproj" />
+    <ProjectReference Include="..\Base.Clean.Template.Contracts\Base.Clean.Template.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

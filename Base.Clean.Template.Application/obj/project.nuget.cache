@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4EbxAS+K3ulyBiJTYc39m35CUc/xxWAn+bCBeRKcfBfUlMIQ641cCVM8YQ9bDjaZtAvsHOlUoKvE58i05IPY1Q==",
+  "success": true,
+  "projectFilePath": "/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/Base.Clean.Template.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/caikmoraes/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/caikmoraes/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/home/caikmoraes/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/caikmoraes/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/home/caikmoraes/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

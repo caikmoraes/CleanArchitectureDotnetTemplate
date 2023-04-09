@@ -1,0 +1,15 @@
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/bin/Debug/net7.0/Base.Clean.Template.Application.deps.json
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/bin/Debug/net7.0/Base.Clean.Template.Application.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/bin/Debug/net7.0/Base.Clean.Template.Application.pdb
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/bin/Debug/net7.0/Base.Clean.Template.Domain.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/bin/Debug/net7.0/Base.Clean.Template.Domain.pdb
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.csproj.AssemblyReference.cache
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.AssemblyInfoInputs.cache
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.AssemblyInfo.cs
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.csproj.CoreCompileInputs.cache
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.csproj.CopyComplete
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/refint/Base.Clean.Template.Application.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/Base.Clean.Template.Application.pdb
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Application/obj/Debug/net7.0/ref/Base.Clean.Template.Application.dll

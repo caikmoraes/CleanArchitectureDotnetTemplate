@@ -1,0 +1,12 @@
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/bin/Debug/net7.0/Base.Clean.Template.Contracts.deps.json
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/bin/Debug/net7.0/Base.Clean.Template.Contracts.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/bin/Debug/net7.0/Base.Clean.Template.Contracts.pdb
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.csproj.AssemblyReference.cache
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.AssemblyInfoInputs.cache
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.AssemblyInfo.cs
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.csproj.CoreCompileInputs.cache
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/refint/Base.Clean.Template.Contracts.dll
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/Base.Clean.Template.Contracts.pdb
+/home/caikmoraes/Github/Base.Clean.Template/Base.Clean.Template.Contracts/obj/Debug/net7.0/ref/Base.Clean.Template.Contracts.dll

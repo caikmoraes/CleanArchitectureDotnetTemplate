@@ -1,0 +1,37 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Caik Moraes",
+  "classifications": ["Web", "WebAPI"],
+  "identity": "Base.Clean.Template",
+  "name": "Clean Architecture API",
+  "shortName": "cleanarch",
+  "sourceName": "Base.Clean.Template",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "preferNameDirectory": true,
+  "symbols": {
+    "Framework": {
+      "type": "parameter",
+      "description": "The target framework for solution",
+      "datatype": "choice",
+      "choices": [
+        {
+          "choice": "net7.0"
+        },
+        {
+          "choice": "net6.0"
+        }
+      ],
+      "defaultValue": "net7.0",
+      "replaces": "{TargetFramework}"
+    },
+    "SwaggerSupport": {
+      "type": "parameter",
+      "description": "Enable swagger support for API",
+      "datatype": "bool",
+      "defaultValue": "true"
+    }
+  }
+}

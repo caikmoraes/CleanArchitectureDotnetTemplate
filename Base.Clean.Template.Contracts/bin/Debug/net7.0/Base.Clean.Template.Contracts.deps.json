@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Base.Clean.Template.Contracts/1.0.0": {
+        "runtime": {
+          "Base.Clean.Template.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Base.Clean.Template.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
