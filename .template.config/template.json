@@ -26,12 +26,6 @@
       ],
       "defaultValue": "net7.0",
       "replaces": "{TargetFramework}"
-    },
-    "SwaggerSupport": {
-      "type": "parameter",
-      "description": "Enable swagger support for API",
-      "datatype": "bool",
-      "defaultValue": "true"
     }
   }
 }

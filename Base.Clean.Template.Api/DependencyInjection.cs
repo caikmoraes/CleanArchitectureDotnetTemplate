@@ -13,10 +13,7 @@ public static class DependencyInjection
     {
         services.AddControllers();
         services.AddEndpointsApiExplorer();
-@*
-#if (SwaggerSupport)
         services.AddSwaggerGen();
-#endif*@
         services.AddMappings();
 
         return services;
