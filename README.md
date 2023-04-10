@@ -4,6 +4,17 @@ This is a base project template based on Clean Architecture principles, learned 
 
 In this template, the layers of `Presentation`, `Application`, `Infrastructure` and `Domain` are already present and configured with dependency injection packages and some injections (Mapster and Mediatr).
 
+## Contents
+
+- [Clean Architecture Layers](##-Clean-Architecture-Layers)
+- [Contracts Layer](###-Contracts-Layers)
+- [Presentation Layer](<###-API-(Presentation)-Layer>)
+- [Application Layer](###-Application-Layer)
+- [Infrastructure Layer](###-Infrastructure-Layer)
+- [Domain Layer](###-Domain-Layer)
+- [Installation](##-Installation)
+- [Uninstallation](##-Uninstallation)
+
 ## Clean Architecture Layers
 
 Here I'll shortly describe the layers in this template.
@@ -51,7 +62,7 @@ In Domain Layer all of the entities and domain classes must be present.
 
 > For better explanation about Clean Architecture I personally recommend [Amichai Mantinband](https://github.com/amantinband)'s videos and [Microsoft documentation](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures).
 
-## :rocket: Installation
+## Installation
 
 ## Linux/WSL
 
@@ -69,7 +80,7 @@ dotnet new list | grep cleanarch
 
 > Unfortunately, I don't have much experience with shell scripts and I want to fix that, so feel free to get in touch with suggestions to improve this tool :smile:
 
-## :heavy_multiplication_x: Uninstallation
+## Uninstallation
 
 To uninstall template it's necessary to go to template's folder:
 
