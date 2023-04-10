@@ -6,14 +6,14 @@ In this template, the layers of `Presentation`, `Application`, `Infrastructure` 
 
 ## Contents
 
-- [Clean Architecture Layers](#-clean-architecture-layers)
-- [Contracts Layer](#-contracts-layers)
-- [Presentation Layer](#-api-presentation-layer)
-- [Application Layer](#-application-layer)
-- [Infrastructure Layer](#-infrastructure-layer)
-- [Domain Layer](#-domain-layer)
-- [Installation](#-installation)
-- [Uninstallation](#-uninstallation)
+- [Clean Architecture Layers](#clean-architecture-layers)
+- [Contracts Layer](#contracts-layers)
+- [Presentation Layer](#api-presentation-layer)
+- [Application Layer](#application-layer)
+- [Infrastructure Layer](#infrastructure-layer)
+- [Domain Layer](#domain-layer)
+- [Installation](#installation)
+- [Uninstallation](#uninstallation)
 
 ## Clean Architecture Layers
 
