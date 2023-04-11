@@ -27,5 +27,37 @@
       "defaultValue": "net7.0",
       "replaces": "{TargetFramework}"
     }
-  }
+  },
+  "sources": [
+    {
+      "source": "./",
+      "include": ["Base.Clean.Template.sln", ".gitignore"],
+      "target": "./"
+    },
+    {
+      "source": "./Base.Clean.Template.Api",
+      "include": ["**/*"],
+      "target": "./Base.Clean.Template.Api"
+    },
+    {
+      "source": "./Base.Clean.Template.Application",
+      "include": ["**/*"],
+      "target": "./Base.Clean.Template.Application"
+    },
+    {
+      "source": "./Base.Clean.Template.Contracts",
+      "include": ["**/*"],
+      "target": "./Base.Clean.Template.Contracts"
+    },
+    {
+      "source": "./Base.Clean.Template.Domain",
+      "include": ["**/*"],
+      "target": "./Base.Clean.Template.Domain"
+    },
+    {
+      "source": "./Base.Clean.Template.Infrastructure",
+      "include": ["**/*"],
+      "target": "./Base.Clean.Template.Infrastructure"
+    }
+  ]
 }
