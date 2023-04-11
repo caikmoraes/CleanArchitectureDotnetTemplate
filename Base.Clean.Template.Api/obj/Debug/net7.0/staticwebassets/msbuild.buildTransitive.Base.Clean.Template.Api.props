@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Base.Clean.Template.Api.props" />
-</Project>
