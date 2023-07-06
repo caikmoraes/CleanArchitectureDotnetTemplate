@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 root="$HOME/.dotnet/custom_templates/Base.Clean.Template"
-git_repo="git@github.com:caikmoraes/CleanArchitectureDotnetTemplate.git"
+git_repo="https://github.com/caikmoraes/CleanArchitectureDotnetTemplate.git"
 
 clean_echo() {
     command printf %s\\n "$*" 2>/dev/null
