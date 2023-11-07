@@ -1,7 +1,10 @@
 {
   "$schema": "http://json.schemastore.org/template",
   "author": "Caik Moraes",
-  "classifications": ["Web", "WebAPI"],
+  "classifications": [
+    "Web",
+    "WebAPI"
+  ],
   "identity": "Base.Clean.Template",
   "name": "Clean Architecture API",
   "shortName": "cleanarch",
@@ -16,14 +19,6 @@
       "type": "parameter",
       "description": "The target framework for solution",
       "datatype": "choice",
-      "choices": [
-        {
-          "choice": "net7.0"
-        },
-        {
-          "choice": "net6.0"
-        }
-      ],
       "defaultValue": "net7.0",
       "replaces": "{TargetFramework}"
     }
@@ -31,32 +26,45 @@
   "sources": [
     {
       "source": "./",
-      "include": ["Base.Clean.Template.sln", ".gitignore"],
+      "include": [
+        "Base.Clean.Template.sln",
+        ".gitignore"
+      ],
       "target": "./"
     },
     {
       "source": "./Base.Clean.Template.Api",
-      "include": ["**/*"],
+      "include": [
+        "**/*"
+      ],
       "target": "./Base.Clean.Template.Api"
     },
     {
       "source": "./Base.Clean.Template.Application",
-      "include": ["**/*"],
+      "include": [
+        "**/*"
+      ],
       "target": "./Base.Clean.Template.Application"
     },
     {
       "source": "./Base.Clean.Template.Contracts",
-      "include": ["**/*"],
+      "include": [
+        "**/*"
+      ],
       "target": "./Base.Clean.Template.Contracts"
     },
     {
       "source": "./Base.Clean.Template.Domain",
-      "include": ["**/*"],
+      "include": [
+        "**/*"
+      ],
       "target": "./Base.Clean.Template.Domain"
     },
     {
       "source": "./Base.Clean.Template.Infrastructure",
-      "include": ["**/*"],
+      "include": [
+        "**/*"
+      ],
       "target": "./Base.Clean.Template.Infrastructure"
     }
   ]
