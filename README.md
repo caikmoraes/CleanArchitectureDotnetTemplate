@@ -85,7 +85,7 @@ dotnet new list | grep cleanarch
 To uninstall template it's necessary to go to template's folder:
 
 ```
-cd $USER/.dotnet/custom_templates/Base.Clean.Template/.template.config
+cd /home/$USER/.dotnet/custom_templates/Base.Clean.Template/.template.config
 ```
 
 and run the command:
