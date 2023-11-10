@@ -14,15 +14,6 @@
     "type": "solution"
   },
   "preferNameDirectory": true,
-  "symbols": {
-    "Framework": {
-      "type": "parameter",
-      "description": "The target framework for solution",
-      "datatype": "choice",
-      "defaultValue": "net7.0",
-      "replaces": "{TargetFramework}"
-    }
-  },
   "sources": [
     {
       "source": "./",
