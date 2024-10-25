@@ -1,10 +1,9 @@
 using Base.Clean.Template.Api;
 using Base.Clean.Template.Application;
 using Base.Clean.Template.Infrastructure;
+using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
 
 builder.Services.AddPresentation();
 builder.Services.AddApplication();
@@ -12,12 +11,8 @@ builder.Services.AddInfrastructure();
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger(options => { options.RouteTemplate = "openapi/{documentName}.json"; });
+app.MapScalarApiReference();
 
 app.UseHttpsRedirection();
 

@@ -15,10 +15,8 @@ public static class DependencyInjection
         services.AddEndpointsApiExplorer();
         services.AddSwaggerGen();
         services.AddMappings();
-
         return services;
     }
-
     private static IServiceCollection AddMappings(this IServiceCollection services)
     {
         TypeAdapterConfig config = TypeAdapterConfig.GlobalSettings;
